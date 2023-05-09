@@ -41,5 +41,11 @@ The project contains a folder names web-app
 5. The URL of the index.html will be the URL of your application.
 
 
+# Team members
+<img width="667" alt="image" src="https://github.com/DHRUV6029/SkinSense/assets/71836462/3281ad1f-c3fb-4645-b3d6-debd2c185381">
+
+
+
+
 
 
