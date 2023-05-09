@@ -5,15 +5,25 @@ The recent emergence of machine learning and deep learning methods for medical i
 
 __Brief Overview Our solution aims to classify 7 common types of skin infections namely__
 
-ACTINIC KERATOSES
-BASAL CELL CARCINOMA
-BENINGN KERATOSES
-DERMATOFIBROMA
-MELANOCYTIC NEVI
-MELANOMA
-VASCULAR LESIONS
+1. ACTINIC KERATOSES
+2. BASAL CELL CARCINOMA
+3. BENINGN KERATOSES
+4. DERMATOFIBROMA
+5. MELANOCYTIC NEVI
+6. MELANOMA
+7. VASCULAR LESIONS
 
-Our solution will classify all the 7 classes with considerable precision and accuracy.
-Our solution can be used my medical professional to identify the skin disease it helps automate the identification process.
-Our solution can also be used by common people to detect which type of skin infection they have.
-Our soultion aims to detect Melanoma which is predominant skin cancer in early stages so lives of the paitents can be saved.
+1. Solution will classify all the 7 classes with considerable precision and accuracy.
+2. Solution can be used my medical professional to identify the skin disease it helps automate the identification process.
+3. Soultion aims to detect Melanoma which is predominant skin cancer in early stages so lives of the paitents can be saved.
+
+
+# How to Run
+The project contains a folder names web-app
+1. Clone the repo to your local directory.
+2. Change the AWS S3 bucket URL to your AWS S3 URL.
+3. Create a bucket in AWS and upload model.json file with public access enabled.
+4. Create another bucket with AWS S3 static web hosting feature enabled and upload the files in webapp folder to the bucket.
+5. The URL of the index.html will be the URL of your application.
+
+
