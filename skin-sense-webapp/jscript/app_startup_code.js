@@ -33,8 +33,8 @@ function predictOnLoad() {
 let model;
 (async function () {
 	
-	model = await tf.loadModel('https://skincanceranalyzer.s3.ap-south-1.amazonaws.com/model/model.json');
-	$("#selected-image").attr("src", "http://skincanceranalyzer.s3.ap-south-1.amazonaws.com/assets/alt_icon.jpg");
+	model = await tf.loadModel('https://cmpe-258-project.s3.amazonaws.com/model.json');
+	$("#selected-image").attr("src", "https://cmpe-258-final-project.s3.amazonaws.com/assets/alt_icon.jpg");
 	
 	// Hide the model loading spinner
 	// This line of html gets hidden:

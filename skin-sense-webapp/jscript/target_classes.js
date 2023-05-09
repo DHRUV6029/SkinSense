@@ -20,7 +20,7 @@ TARGET_CLASSES = {
   1: 'bcc, Basal Cell Carcinoma',
   2: 'bkl, Benign Keratosis',
   3: 'df, Dermatofibroma',
-  4: 'mel, Melanoma',
+  4: 'mel, Melanoma', //Cancerous
   5: 'nv, Melanocytic Nevi',
   6: 'vasc, Vascular skin lesion'
 
