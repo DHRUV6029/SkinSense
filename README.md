@@ -28,7 +28,6 @@ We chose MobileNETV3 as the prediction model due to following reasons:
 4. MobileNetV3 can also run directly in Webbrowser via tensorflow.js.
 
 
-<img width="1585" alt="image" src="https://github.com/DHRUV6029/SkinSense/assets/71836462/358057ae-103e-4544-beec-458146fd9274">
 
 
 
